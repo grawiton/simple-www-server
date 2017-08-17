@@ -14,22 +14,22 @@ optional
 
 ## Installation
 
-##1 Clone this repo
+### 1 Clone this repo
 
 `git clone https://github.com/grawiton/simple-www-server`
 
-##2 Change directory into repo folder 
+### 2 Change directory into repo folder 
 
 `cd simple-www-server`
 
-##3 Install dependencies 
+### 3 Install dependencies 
 
 `npm install`
 
-##4 Start the app
+### 4 Start the app
 
 `gulp serve`
 
-##5 Open app in browser
+### 5 Open app in browser
 
 `localhost:1337`
