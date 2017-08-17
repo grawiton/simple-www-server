@@ -1,5 +1,5 @@
 # simple www server
-Simple www server with optional livereload chrome server on gulp.
+Simple www server with livereload Chrome.
 
 - Tested on Chrome V59.0.3071.115 @ 1600 * 900
 
