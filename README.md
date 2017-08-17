@@ -1,5 +1,5 @@
 # simple www server
-Simple www server with livereload Chrome.
+Simple www server with sass, minify css and livereload Chrome.
 
 - Tested on Chrome V59.0.3071.115 @ 1600 * 900
 
